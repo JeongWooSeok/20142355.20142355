@@ -35,6 +35,16 @@
 #*.sqlproj   merge=binary
 #*.wwaproj   merge=binary
 
+*c. crlf dff
+*cc. crlf dff
+*cxx. crlf dff
+*cpp. crlf dff
+*c++. crlf dff
+*hpp. crlf dff
+*h. crlf dff
+*h++. crlf dff
+*hh. crlf dff
+
 ###############################################################################
 # behavior for image files
 #
